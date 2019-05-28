@@ -3,5 +3,6 @@ public class ramazan2 {
         System.out.println("fenerbahce");
 		
 		System.out.println("antep");
+		System.out.println("amras");
     }
 }
